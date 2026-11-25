@@ -2,7 +2,6 @@
 
 From routing instances to OSPF: problems, fixes and experiments, with the real outputs.
 
-Language: English | [العربية](README.ar.md)
 
 Lab: three SRX devices (HQ, Branch, DataCenter-1) · November 2026
 
