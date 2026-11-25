@@ -14,6 +14,8 @@ graph TD
 
 ## 1. Goal and topology
 
+![ADVPN Topology](docs/images/ADVPN%20Topology.svg)
+
 The goal is to build ADVPN: a permanent tunnel between the hub and every spoke. When traffic goes from one spoke to another through the hub, the hub suggests to both of them to build a direct tunnel (a shortcut), and the shortcut is removed again when it becomes idle.
 
 | Device | Role | st0.0 address | External address | Instance | LAN networks |
